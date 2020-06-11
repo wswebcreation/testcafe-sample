@@ -7,7 +7,7 @@ This repo used the Sauce Labs Demo app that can be found [here](https://www.sauc
 
 ## Start
 1. Do a git clone `git clone https://github.com/wswebcreation/testcafe-sample.git`
-2. Go to the directory with `cd testcase-sample` 
+2. Go to the directory with `cd testcafe-sample` 
 3. Install all dependencies with `npm install`
 
 ## Run
